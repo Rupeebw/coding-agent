@@ -30,3 +30,4 @@ tavily-python==0.5.1
 
 #
 #pydantic<2
+nbformat>=4.2.0 
